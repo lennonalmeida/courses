@@ -1,5 +1,5 @@
 def vogal(l):
-	vogais = ['a', 'e', 'i', 'o', 'u']
+	vogais = ['a', 'A', 'e', 'E', 'i', 'I', 'o', 'O', 'u', 'U']
 	if l in vogais:
 		a = True
 	else:
